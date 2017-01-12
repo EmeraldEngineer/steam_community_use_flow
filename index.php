@@ -43,7 +43,7 @@
 			<h4>Interaction Flow</h4>
 			<p>
 				<ol>
-					<li>Opens Steam application (inputs username/password if not already logged in)</li>
+					<li>Sara opens Steam application (inputs username/password if not already logged in)</li>
 					<li>
 						Steam application presents user's pre-selected home page.
 					</li>
