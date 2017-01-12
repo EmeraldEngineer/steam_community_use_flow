@@ -66,7 +66,67 @@
 						Sara inputs a title for her guide in the provided text field, clicks the "browse" button to open a file browser and select a branding image for her guide, writes a brief description of her guide in the provided text field, clicks on "category" check boxes corresponding to the categories she wishes her guide to be listed under, selects the "language" check box for the language she will write in, checks box certifying she is the original creator of the guide, and clicks "save and continue" button.
 					</li>
 					<li>
-						Steam uploads and store all data input by Sara.
+						Steam uploads and stores all text and image data input by Sara. Steam application displays "guide contents" section.
+					</li>
+					<li>
+						Sara clicks on "browse" button under the "images" section to open a fie browser and select all the images she wished to upload in order to use them in her guide.
+					</li>
+					<li>
+						Steam stores image data uploaded by Sara.
+					</li>
+					<li>
+						Sara clicks on the "add a section" button under "guide contents".
+					</li>
+					<li>
+						steam application dynamically updates "guide contents" section with new section.
+					</li>
+					<li>
+						Sara clicks on the "edit this section" button.
+					</li>
+					<li>
+						Sara inputs the section title in the provided text field then inputs the text contents of this section in the provided text field. She uses markup similar to HTML in order to format her text. She also selects (from the images/screenshots/videos sidebar) any images she would like to include in this section. After clicking on an image she selects the desired size and alignment of her image.
+					</li>
+					<li>
+						Steam application inserts markup code that will display the selected image with desired size/position when the guide is viewed outsite the editor.
+					</li>
+					<li>
+						Sara clicks on the preview button.
+					</li>
+					<li>
+						Steam application displays the section as it will appear to any viewers of the guide.
+					</li>
+					<li>
+						Sara clicks the "save" button.
+					</li>
+					<li>
+							Steam commits changes to Sara's guide.
+					</li>
+					<li>
+						Sara clicks on "guide contents" button.
+					</li>
+					<li>
+						Steam application displays "guide contents" page.
+					</li>
+					<li>
+						Sara/steam repeat previous steps until all desired sections have been added to the guide.
+					</li>
+					<li>
+						Sara adds any friends she desires to grant editing access to the guide via the "add a contributor" button.
+					</li>
+					<li>
+						Steam updates list of user accounts with editting permissions for the particular guide.
+					</li>
+					<li>
+						Sara clicks on the "preview guide" button.
+					</li>
+					<li>
+						Steam application displays preview of guide as it will appear to viewers of the guide.
+					</li>
+					<li>
+						After confirming the guide will appear as expected to viewers, Sara clicks the "publish guide" button.
+					</li>
+					<li>
+						Steam adds the guide to the list of available guides displayed on the particular game hub's guide page.
 					</li>
 				</ol>
 			</p>
