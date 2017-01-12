@@ -26,9 +26,9 @@
 				<br><br>
 					Technology:
 					<ul>
-					<li>Gaming Desktop</li>
-					<li>Lightweight Laptop</li>
-					<li>Smartphone (Palm Pre)</li>
+					<li>Gaming Desktop - Windows 10</li>
+					<li>Lightweight Laptop - Windows 10</li>
+					<li>Smartphone (Palm Pre) - WebOS</li>
 					</ul>
 					Needs: Frequently travels making gaming difficult due to technology performance constraints. Enjoys interacting with, and creating content for, various games' communities.
 				<br><br>
