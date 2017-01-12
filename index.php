@@ -12,20 +12,18 @@
 		</header>
 		<br>
 		<center>
-			<p>
+			<h2>
 				Persona
-			</p>
-		</center>
-		<br>
-		<center>
+			</h2>
 			<p>
 					Name: Sara Krace
-				<br>
+				<br><br>
 					Username: Magic Thryssa
-				<br>
+				<br><br>
 					Age:28
-				<br>
+				<br><br>
 					Occupation: Airline Pilot
+
 			</p>
 		</center>
 	</body>
