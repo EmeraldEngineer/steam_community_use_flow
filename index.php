@@ -18,7 +18,7 @@
 			<p>
 					Name: Sara Krace
 				<br><br>
-					Username: Magic Thryssa
+					Username: Dogs-VS-Pirates
 				<br><br>
 					Age:28
 				<br><br>
