@@ -37,11 +37,12 @@
 				<br><br>
 			<h3>Use Case</h3>
 			<p>
-			</p>center>
+			</p>
 					Sara wants to help the other players of the video games she plays by creating informative and easy to understand guides. She is technologically literate, but does not know how to code or create a website. She needs an easy to use GUI solution to creating/hosting/sharing guides for her favorite games.
 			</p>
 			<br><br>
 			<h4>Interaction Flow</h4>
+		</center>
 			<p>
 				<ol>
 					<li>Sara opens Steam application (inputs username/password if not already logged in)</li>
