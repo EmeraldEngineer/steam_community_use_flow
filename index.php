@@ -7,7 +7,7 @@
 	<body>
 		<header>
 			<center> <!-- center is deprecated, but I want it to look pretty and don't want to bother with css now. -->
-				<h1>Hypothetical Persona Use Case & Guide Creation Interaction Flow</h1>
+				<h1>Hypothetical Persona, Use Case, & Guide Creation Interaction Flow</h1>
 			</center>
 		</header>
 		<br>
