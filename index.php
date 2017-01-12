@@ -131,6 +131,28 @@
 					</li>
 				</ol>
 			</p>
-		<!--</center> -->
+			<br><br><br>
+			<p>
+				<h5>Steam Community Conceptual Model: Entities &amp Attributes.</h5>
+			<ul>
+				<li>Profile
+					<ul>
+						<li>profileId</li>
+						<li>profileEmail</li>
+						<li>profileGames</li>
+					</ul>
+				</li>
+				<li>
+					Guide
+					<ul>
+						<li>fileId</li>
+						<li>guideAuthorId</li>
+						<li>guideCatagory</li>
+						<li>guideLanguage</li>
+
+					</ul>
+				</li>
+			</ul>
+			</p>
 	</body>
 </html>
