@@ -19,7 +19,13 @@
 		<br>
 		<center>
 			<p>
-
+					Name: Sara Krace
+				<br>
+					Username: Magic Thryssa
+				<br>
+					Age:28
+				<br>
+					Occupation: Airline Pilot
 			</p>
 		</center>
 	</body>
