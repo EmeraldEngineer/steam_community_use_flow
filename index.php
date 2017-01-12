@@ -18,7 +18,7 @@
 			<p>
 					Name: Sara Krace
 				<br><br>
-					Username: Dogs-VS-Pirates
+					Username: Dogs-vs-Pirates
 				<br><br>
 					Age:28
 				<br><br>
@@ -37,7 +37,6 @@
 				<br><br>
 			<h3>Use Case</h3>
 			<p>
-			</p>
 					Sara wants to help the other players of the video games she plays by creating informative and easy to understand guides. She is technologically literate, but does not know how to code or create a website. She needs an easy to use GUI solution to creating/hosting/sharing guides for her favorite games.
 			</p>
 			<br><br>
