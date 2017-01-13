@@ -137,19 +137,71 @@
 			<ul>
 				<li>Profile
 					<ul>
-						<li>profileId</li>
-						<li>profileEmail</li>
-						<li>profileGames</li>
+						<li>profileId (primary key?)
+							<ul>
+								<li>1-to-1</li>
+							</ul>
+						</li>
+						<li>profileEmail
+							<ul>
+								<li>n-to-1</li>
+							</ul>
+						</li>
+						<li>profileAccountName (primary key?)
+							<ul>
+								<li>1-to-1</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					Guide
 					<ul>
-						<li>fileId</li>
-						<li>guideAuthorId</li>
-						<li>guideCatagory</li>
-						<li>guideLanguage</li>
-
+						<li>fileId (primary key)
+							<ul>
+								<li>1-to-1</li>
+							</ul>
+						</li>
+						<li>guideOwnerId (foreign key)
+							<ul>
+								<li>1-to-1</li>
+							</ul>
+						</li>
+						<li>guideContributorId (foreign key)
+							<ul>
+								<li>1-to-n</li>
+							</ul>
+						</li>
+						<li>guideCatagory
+							<ul>
+								<li>n-to-m</li>
+							</ul>
+						</li>
+						<li>guideLanguage
+							<ul>
+								<li>n-to-m</li>
+							</ul>
+						</li>
+						<li>guideFavorite (foreign key)
+							<ul>
+								<li>n-to-m</li>
+							</ul>
+						</li>
+						<li>guidePosted
+							<ul>
+								<li>n-to-1</li>
+							</ul>
+						</li>
+						<li>guideUpdated
+							<ul>
+								<li>n-to-m</li>
+							</ul>
+						</li>
+						<li>guideFlagged (foreign key)
+							<ul>
+								<li>n-to-m</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 			</ul>
