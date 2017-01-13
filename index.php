@@ -138,9 +138,6 @@
 				<li>Profile
 					<ul>
 						<li>profileId (primary key?)
-							<ul>
-								<li>1-to-1</li>
-							</ul>
 						</li>
 						<li>profileEmail
 							<ul>
@@ -200,6 +197,21 @@
 						<li>guideFlagged (foreign key)
 							<ul>
 								<li>n-to-m</li>
+							</ul>
+						</li>
+						<li>guideComments (try hard)
+							<ul>
+								<li>n-to-m</li>
+							</ul>
+						</li>
+						<li>guideCommentsDev (try hard)
+							<ul>
+								<li>n-to-m</li>
+							</ul>
+						</li>
+						<li>guideVisibility
+							<ul>
+								<li></li>
 							</ul>
 						</li>
 					</ul>
