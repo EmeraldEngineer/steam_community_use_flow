@@ -155,66 +155,26 @@
 					Guide
 					<ul>
 						<li>fileId (primary key)
-							<ul>
-								<li>1-to-1</li>
-							</ul>
 						</li>
 						<li>guideOwnerId (foreign key)
-							<ul>
-								<li>1-to-1</li>
-							</ul>
 						</li>
 						<li>guideContributorId (foreign key)
-							<ul>
-								<li>1-to-n</li>
-							</ul>
 						</li>
 						<li>guideCatagory
-							<ul>
-								<li>n-to-m</li>
-							</ul>
 						</li>
 						<li>guideLanguage
-							<ul>
-								<li>n-to-m</li>
-							</ul>
 						</li>
 						<li>guideFavorite (foreign key)
-							<ul>
-								<li>n-to-m</li>
-							</ul>
 						</li>
 						<li>guidePosted
-							<ul>
-								<li>n-to-1</li>
-							</ul>
 						</li>
 						<li>guideUpdated
-							<ul>
-								<li>n-to-m</li>
-							</ul>
 						</li>
 						<li>guideFlagged (foreign key)
-							<ul>
-								<li>n-to-m</li>
-							</ul>
 						</li>
 						<li>guideComments (try hard)
-							<ul>
-								<li>n-to-m</li>
-							</ul>
 						</li>
 						<li>guideCommentsDev (try hard)
-							<ul>
-								<li>n-to-m</li>
-							</ul>
-						</li>
-						<li>guideVisibility
-							<ul>
-								<li></li>
-							</ul>
-						</li>
-					</ul>
 				</li>
 			</ul>
 			</p>
