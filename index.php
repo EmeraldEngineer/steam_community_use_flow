@@ -135,46 +135,32 @@
 			<p>
 				<h5>Steam Community Conceptual Model: Entities &amp Attributes.</h5>
 			<ul>
-				<li>Profile
-					<ul>
-						<li>profileId (primary key?)
-						</li>
-						<li>profileEmail
-							<ul>
-								<li>n-to-1</li>
-							</ul>
-						</li>
-						<li>profileAccountName (primary key?)
-							<ul>
-								<li>1-to-1</li>
-							</ul>
-						</li>
-					</ul>
+				<li>
+					Profile
+						<ul>
+							<li>profileId (primary)</li>
+							<li>profileAccountEmail</li>
+							<li>profileAccountPhone</li>
+						</ul>
 				</li>
 				<li>
 					Guide
-					<ul>
-						<li>fileId (primary key)
-						</li>
-						<li>guideOwnerId (foreign key)
-						</li>
-						<li>guideContributorId (foreign key)
-						</li>
-						<li>guideCatagory
-						</li>
-						<li>guideLanguage
-						</li>
-						<li>guideFavorite (foreign key)
-						</li>
-						<li>guidePosted
-						</li>
-						<li>guideUpdated
-						</li>
-						<li>guideFlagged (foreign key)
-						</li>
-						<li>guideComments (try hard)
-						</li>
-						<li>guideCommentsDev (try hard)
+						<ul>
+							<li>guideId (Primary)</li>
+							<li>guideOwnerId (Foreign)</li>
+							<li>guideLanguage</li>
+							<li>guideCatagory</li>
+							<li>guideContent</li>
+							<li>guideCreateDate</li>
+							<li>guideModifyDate</li>
+						</ul>
+				</li>
+				<li>
+					guideProfile
+						<ul>
+							<li>guideProfileProfileId (Foreign)</li>
+							<li>guideProfileGuideId (Foreign)</li>
+						</ul>
 				</li>
 			</ul>
 			</p>
