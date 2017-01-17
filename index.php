@@ -15,7 +15,6 @@
 			<h2>
 				Persona
 			</h2>
-			<p>
 					Name: Sara Krace
 				<br><br>
 					Username: Dogs-vs-Pirates
@@ -33,16 +32,12 @@
 					Needs: Frequently travels making gaming difficult due to technology performance constraints. Enjoys interacting with, and creating content for, various games' communities.
 				<br><br>
 					Goals: Create useful content for gaming communities.
-			</p>
 				<br><br>
 			<h3>Use Case</h3>
-			<p>
 					Sara wants to help the other players of the video games she plays by creating informative and easy to understand guides. She is technologically literate, but does not know how to code or create a website. She needs an easy to use GUI solution to creating/hosting/sharing guides for her favorite games.
-			</p>
 			<br><br>
 			<h4>Interaction Flow</h4>
 		</center>
-			<p>
 				<ol>
 					<li>Sara opens Steam application (inputs username/password if not already logged in)</li>
 					<li>
@@ -130,9 +125,7 @@
 						Steam adds the guide to the list of available guides displayed on the particular game hub's guide page.
 					</li>
 				</ol>
-			</p>
 			<br><br><br>
-			<p>
 				<h5>Steam Community Conceptual Model: Entities &amp Attributes.</h5>
 			<ul>
 				<li>
@@ -163,6 +156,5 @@
 						</ul>
 				</li>
 			</ul>
-			</p>
 	</body>
 </html>
