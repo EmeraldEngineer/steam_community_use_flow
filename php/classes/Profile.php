@@ -3,7 +3,7 @@ namespace edu\cnm\Tmccarthy4\steam_community_use_flow;
 /**
  *Profile Id and contact/account verification info.
  *
- * This stores and displays the user's profile Id, email address, and phone number.
+ * This modifies and displays the user's profile Id, email address, and phone number.
  *
  * @author Taylor McCarthy <tmmccarthy4@cnm.edu>
  * @version 1.0
