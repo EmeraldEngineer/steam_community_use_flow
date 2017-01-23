@@ -68,4 +68,10 @@ class guide {
 
 	}
 
+
+/**
+ * Begin JSON Serialize test.
+ **/
+
+
 }

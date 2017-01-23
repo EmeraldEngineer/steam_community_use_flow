@@ -8,7 +8,7 @@ namespace edu\cnm\Tmccarthy4\steam_community_use_flow;
  * @author Taylor McCarthy <tmmccarthy4@cnm.edu>
  * @version 1.0
  **/
-class Profile {
+class Profile implements \JsonSerializable {
 	/**
 	 * id for the profile, primary key.
 	 * @var int $profileId
@@ -108,6 +108,10 @@ class Profile {
 		}
 		//store the new phone number
 		$this->profileAccountPhone = $setProfileAccountPhone;
+	}
+	public function jsonSerialize() {
+		$fields = get_object_vars($this);
+		return($fields);
 	}
 
 }
